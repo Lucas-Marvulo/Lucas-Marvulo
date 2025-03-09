@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Marvulo;I'm+23+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Marvulo;I'm+23+years+old;I'm+from+Brazil;Data+Scientist;Data+Analytics;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
@@ -15,5 +15,7 @@
 - 💬 Ask me about **data visualization, predictive modeling, and career transitions**.  
 - 📫 How to reach me: [Lucas_marvulo@hotmail.com] | [Lucas marvulo]  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love finding insights in everyday data—yes, even my Netflix watch history! 📊🎬  
+- ⚡ Fun fact: I love finding insights in everyday data—yes, even my Netflix watch history! 📊🎬 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
 
